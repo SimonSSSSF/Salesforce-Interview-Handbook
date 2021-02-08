@@ -1,0 +1,4 @@
+Write a schedulable Apex class that queries for all open Opportunities that have not been modified in the last 7 days,
+reduces the probability of the Opportunities by 5%, and updates the records. Schedule it to run every Monday at 7:59 am.
+
+Write a script that queries for all records in Opportunities that were edited on Monday at 7:59 am.
